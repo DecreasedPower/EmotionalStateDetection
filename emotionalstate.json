@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emotional-state-276417",
+  "private_key_id": "52d9a7c69c09b3570fce94debeaccdb5bc716e9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnirXiQeTDiulK\nBcuu4BB5ZS/EwhfW7pLW5wV/saPIsUKppg74QX1xmTayPMkve1s/15YHDvBWMnhQ\nQRaozjef2ecEv+XiofJcg4QK4jN81DlwkNFlGeHvlbigWDlB1XgRt52tMC/8PWUY\nuII7OqN+8kmo5/XcoggdC4NDW25Vws6bsCda0gdV0Vv4F0R6N8t1jaRTyc3NFBnk\nn3+ju5vn3/+jhIAFJV4qJ6TMxZcFKyOK3lWvLp/OdbM5cr44QQdyLHNQhMk0EQSc\nlFcmJJY/mswZjgzPMHrb0lHahSTWCOxgQTLpheyUJAlMuhhClSm+5BbJL0qWuGzN\nwKyqN+FnAgMBAAECggEAOJXuOUUlFPAZO8F6Wg1eMwn8WLlvIM4B9SggoNCn7xQD\nXlXyD2HbEt967DcAghNpLcZL6wVeIda48O4Sz5+ahNgtINsJMwKcXyeiFKTyW9I3\nti+LMVjNCMSqDynM6NHG1EEONZylUE2SFAfZIFT9PFZrj2sMjGCDWf/17O139emh\nEv6rWwUGTc/2LnevmOgiFXDA/9x2jhsgODoTF5H/vQTFBJgImpNMDsgupLRBfeJ6\n3ofOkBhvUM1TSO9n55soi/xrJzQ4+BQyL/kqWq5og62LZCjmXTbZErKcVnSeXwQv\n9U9bHHd0EuPMYtQW8SvVJLB3zREFZGGGKsJUD1OvvQKBgQDsEHpHxVIonaEJWLNX\ns4cwcUjVy1DEWDP3AYFYg/g2fIwGs3LZpfgxg2qRmMrvMBJJ7kIr2jTBGGan/jjy\nzpinogoGTQqh1CkmEwh34v47gBPD0yw0FmmV+nRhpL/tES9UzLBDCOAdMYQ646RX\nDQKpcUIsUfyczaqdsyXeixHrowKBgQC1sNSo9Qt1OyTDUDsRh9zQu4XOc2gJUSQv\nUPEcy1U6z6j02FjhZtEU0z2NjrOHw9donAGuC71NOVsyaavVc5p7bh2uq56+26x3\nCkGoRPZslNaEOMEnMAoduZojHBbflcVzZ6XR2W+OHcUD/iHBuglMyiEzqgxlolg7\nwo4wapgPbQKBgQCykqRttm64GsW+9EJ2jXAuzQNz9yFZ5f8pUxIti2cwkHa8evLe\nghaGHgt3qEWbOpobIwkbcy2FBJhjbIRX6MDBzmoW6iCo2n1mN++oASagi/pnoE9H\n98xXj+aKFr647s8HLvAHRaeDbfnBMoMW9tiUpQCR1lNpqoruUJ7NAhbEUQKBgBAP\nZmzc5Dtjk/dTwzTkfodQ3B4Io3yXWIx6KiXyb0E4k+W4rfqWnQqrNXiq0YHBtOvB\nRoC89um5lS8amh7PDiu06xjCgNC8GD2ZgX4/Qk0Mxv1/CsvM+kfwXQiXdgojcgWm\ndsja4Hp+dSjKMO+v4xyPjWnEsT3WoNf/dZQgB/rtAoGBAN5siAD4m/Hbvve3BALN\nBAkUyFSTaU9mjCgftFONrYgcx88a5iTAUHXgjUogDU+GR7SsAq0PS63PtemjoUOO\ney2wyLgYorbY8S3/gDHfCQh6xM0zPhM2QgsBLfdx+HvA8DfI/yYhxOB1GH2VSn2W\nzC7Z91fVBZumrCMSdst/MBbm\n-----END PRIVATE KEY-----\n",
+  "client_email": "emotionalstate@emotional-state-276417.iam.gserviceaccount.com",
+  "client_id": "106963932167601370759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emotionalstate%40emotional-state-276417.iam.gserviceaccount.com"
+}
